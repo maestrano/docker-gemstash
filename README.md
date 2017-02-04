@@ -1,0 +1,2 @@
+# docker-gemstash
+Gemstash server
